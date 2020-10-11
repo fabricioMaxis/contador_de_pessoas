@@ -1,6 +1,6 @@
-# contador_de_pessoas
+# people_counter
 
-A new Flutter project.
+Flutter project made for study and acquire knowledge.
 
 ## Getting Started
 
